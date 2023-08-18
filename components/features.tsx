@@ -156,7 +156,7 @@ export default function Features() {
 						</div>
 
 						{/* 4th item */}
-						<div
+						{/* <div
 							className="relative flex flex-col items-center"
 							data-aos="fade-up"
 							data-aos-delay="300"
@@ -198,10 +198,10 @@ export default function Features() {
 								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 								cupidatat.
 							</p>
-						</div>
+						</div> */}
 
 						{/* 5th item */}
-						<div
+						{/* <div
 							className="relative flex flex-col items-center"
 							data-aos="fade-up"
 							data-aos-delay="400"
@@ -240,10 +240,10 @@ export default function Features() {
 								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 								cupidatat.
 							</p>
-						</div>
+						</div> */}
 
 						{/* 6th item */}
-						<div
+						{/* <div
 							className="relative flex flex-col items-center"
 							data-aos="fade-up"
 							data-aos-delay="500"
@@ -289,7 +289,7 @@ export default function Features() {
 								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 								cupidatat.
 							</p>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>
