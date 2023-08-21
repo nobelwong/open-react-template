@@ -56,8 +56,11 @@ export default function Hero() {
 						<div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
 							<h2 className="h2 mb-4">Chilled Water Plant Calibration tool</h2>
 							<p className="text-xl text-gray-400">
-								Excepteur sint occaecat cupidatat non proident, sunt in culpa
-								qui officia deserunt mollit anim id est laborum.
+								Elevate your chilled water plant's performance to new heights
+								with our advanced calibration tool. Unlock peak efficiency by
+								fine-tuning equipment settings, achieving optimal energy usage,
+								and ensuring your system runs at its best, backed by data-driven
+								precision.
 							</p>
 						</div>
 						<div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">

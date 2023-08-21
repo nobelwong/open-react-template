@@ -15,12 +15,17 @@ export default function Zigzag() {
 					{/* Section header */}
 					<div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
 						<div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
-							Reach goals that matter
+							unlocks optimisation
 						</div>
-						<h1 className="h2 mb-4">One product, unlimited solutions</h1>
+						{/* <h1 className="h2 mb-4">One product, unlimited solutions</h1> */}
+						<h1 className="h2 mb-4">
+							Gateway to Exergenics' Chilled Water Plant Optimisation
+						</h1>
 						<p className="text-xl text-gray-400">
-							Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-							officia deserunt mollit laborum — semper quis lectus nulla.
+							Plant calibration is the first step to unlocking Exergenics' suite
+							of Chilled Water Plant Optimisation, including dynamic condenser
+							water temperature optimisation and reset, Chiller Staging setpoint
+							and equipment Load Balancing.
 						</p>
 					</div>
 
@@ -54,7 +59,7 @@ export default function Zigzag() {
 										Calibrate your Chilled Water Plant in 7 steps
 									</h3>
 									<p className="text-xl text-gray-400 mb-4">
-										Configure your chilled water plant based on your existing
+										Configure your chilled water plant with your existing
 										knowledge, documentation and expertise.
 									</p>
 									<ul className="text-lg text-gray-400 -mb-2">
@@ -120,8 +125,8 @@ export default function Zigzag() {
 									<h3 className="h3 mb-3">Intuitive prompts based forms</h3>
 									<p className="text-xl text-gray-400 mb-4">
 										Designed to create a simple, user friendly and structured
-										way of gathering plant information that covers majority of
-										existing plant layouts.
+										way of gathering plant information that covers the majority
+										of existing chilled water plant setups.
 									</p>
 									<ul className="text-lg text-gray-400 -mb-2">
 										<li className="flex items-center mb-2">
